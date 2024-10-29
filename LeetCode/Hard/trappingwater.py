@@ -17,4 +17,7 @@ class Solution:
                 res += rmax - height[r]
         return res
 
-#uses two pointers for this technique to trap water
+# 42. Trapping Rain Water
+# Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+
+# uses two pointers for this technique to trap water
