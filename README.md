@@ -1,5 +1,5 @@
 # LeetCode-and-CodeForces
-This repository is a collection of all the codiung questions i have done so far. It includes questions done from LeetCode and CodeForces and may include more in the future.
+This repository is a collection of all the coding questions i have done so far. It includes questions done from LeetCode and CodeForces and may include more in the future.
 
 ## LeetCode
 LeetCode is the most famous resource used by computer science majors for coding. This section in the repo is split into the sub-folders - Easy, Medium and Hard questions.
