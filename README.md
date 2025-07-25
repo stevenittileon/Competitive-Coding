@@ -1,13 +1,44 @@
-# Competitive-Coding
-This repository is a collection of all the coding questions i have done so far. It includes questions done from LeetCode and CodeForces and may include more in the future.
+# 🧠 Competitive-Coding
 
-## LeetCode
-LeetCode is the most famous resource used by computer science majors for coding. This section in the repo is split into the sub-folders - Easy, Medium and Hard questions.
+This repository is a collection of coding problems I’ve solved so far, sourced from platforms like **LeetCode**, **CodeForces**, **GeeksforGeeks**, and **HackerRank** (SQL section). It serves as a personal archive to track progress and revisit concepts when needed.
 
-## CodeForces
-Another famous site used by computer science majors. This section of the repo is filled with files containing answers to certain questions and the naming scheme of each file is the difficulty of the question followed by the question name.
+## 🔹 LeetCode
 
-An example of the would the question Three Brothers which is of 800 difficulty would be written as 800Threebrother.py 
+One of the most popular platforms for interview prep and algorithmic practice.  
+Questions are organized into three difficulty-based folders:
 
-## GeeksForGeeks
-GeeksforGeeks is a website that provides coding tutorials, practice problems and learning resources to help people improve their programming skills. The questions here are in no order, the file names are the question they tackle.
+- `Easy/`
+- `Medium/`
+- `Hard/`
+
+Each file contains a single problem solution, typically written in Python or Java.
+
+## 🔹 CodeForces
+
+Competitive programming problems from Codeforces, categorized using the standard difficulty rating.
+
+- **File naming format:** `difficultyQuestionName.py`  
+  **Example:** `800ThreeBrothers.py` represents a problem rated 800 titled *Three Brothers*.
+
+## 🔹 GeeksforGeeks
+
+Contains solutions to problems from GeeksforGeeks.  
+There’s no strict categorization here — each file is named after the problem it addresses.
+
+
+## 🔹 HackerRank (SQL)
+
+Focused on SQL problems from HackerRank.  
+Covers a wide range of topics including:
+
+- Basic SELECT statements  
+- Joins and Aggregations  
+- Subqueries  
+- Advanced SQL (e.g., window functions)
+
+Files are written in `.sql` format and named according to the problem.
+
+## 📌 Notes
+
+- This repository is a **work in progress** and will continue to grow with solutions from more platforms.
+- Most problems are solved in **Python** or **SQL**, with occasional use of other languages.
